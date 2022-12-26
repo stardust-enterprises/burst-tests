@@ -1,5 +1,5 @@
 [versions]
-burst = "4.0.0"
+burst = "4.0.0-SNAPSHOT"
 
 [plugins]
-burst = { id = "fr.stardustenterprises.burst.root", version.ref = "burst" }
+burst = { id = "enterprises.stardust.burst.root", version.ref = "burst" }
